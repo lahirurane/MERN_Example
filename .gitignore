@@ -1,2 +1,4 @@
 /node_modules
 package-lock.json
+routes/api/movies.js
+config/keys.js
